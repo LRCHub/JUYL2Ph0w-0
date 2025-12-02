@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "蕾(つぼみ)",
+  "base_artist": "KOBUKURO",
+  "createdAt": "2025-12-02T15:22:57.158317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/01_蕾(つぼみ)_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蕾(つぼみ) - Tsubomi",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/02_蕾(つぼみ)_-_Tsubomi_KOBUKURO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/03_蕾(つぼみ)_KOBUKURO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "蕾 (つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/04_蕾_(つぼみ)_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/05_蕾(つぼみ)_KOBUKURO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_02_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_03_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_04_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_05_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_06_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_07_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_08_蕾(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "蕾 (つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_09_蕾_(つぼみ)_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "蕾(つぼみ)(フジテレビ系月曜9時連続ドラマ「東京タワー」主題歌)",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_10_蕾(つぼみ)(フジテレビ系月曜9時連続ドラマ「東京タワー」主題歌)_コブクロ.txt"
+    }
+  ]
+}
